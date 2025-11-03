@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/capa_01.png"
+    src="./assets/capa_02.png"
     width="300"
 />
 </p>
